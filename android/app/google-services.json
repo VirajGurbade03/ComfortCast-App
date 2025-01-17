@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250521934280",
+    "project_id": "comfortcast-5c2e4",
+    "storage_bucket": "comfortcast-5c2e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250521934280:android:10f54b7b0de7ff556548fd",
+        "android_client_info": {
+          "package_name": "com.example.comfortcast_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNjWTi5PKMYJvfo5Y4ynNMT0MiEAGaBeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
