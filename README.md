@@ -1,4 +1,5 @@
-# 🌡️ ComfortCast App – Personalized Thermal Control
+# <img src="Screan Shots/comfortcast_logoT.png" alt="ComfortCast Logo" width="40"/> ComfortCast App – Personalized Thermal Control
+
 
 ![Repo Size](https://img.shields.io/github/repo-size/VirajGurbade03/comfortcast-app)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
